@@ -3,6 +3,7 @@ The search engine's search code
 
 # install 
 Add url by html(form tag)
+
 //nesez             
 <form action="search" method="get" class="search">
  
