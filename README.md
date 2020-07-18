@@ -2,15 +2,16 @@
 The search engine's search code
 
 # install 
-Add url by html(form tag)
-</> code start ----
+Add code(form html tag)
+
 
 //nesez             
 <form action="https://nesez.com/search.php?q=" method="get" class="search"> //en
-<form action="https://nesez.com/search-ko.php?q=" method="get" class="search"> //ko
+ <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
+</form>
 
- 
-<input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
+<form action="https://nesez.com/search-ko.php?q=" method="get" class="search"> //ko
+  <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
 </form>
 
 //google
