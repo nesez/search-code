@@ -5,15 +5,6 @@ The search engine's search code
 Add code(form html tag)
 
 
-//nesez             
-<form action="https://nesez.com/search.php?q=" method="get" class="search"> //en
- <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
-</form>
-
-<form action="https://nesez.com/search-ko.php?q=" method="get" class="search"> //ko
-  <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
-</form>
-
 //google
 <form action="https://google.com/search?q=" method="get" class="search">
  
