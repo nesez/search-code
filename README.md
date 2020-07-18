@@ -40,3 +40,13 @@ Add code(form html tag)
  
     <input type="search" name="q" id="search-input" class="form-control" placeholder="duckduckgo search" autofocus="" autocomplete="off">
 </form>
+
+//nesez             
+<form action="https://nesez.com/search.php?q=" method="get" class="search"> //en
+   <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
+
+</form>
+
+<form action="https://nesez.com/search-ko.php?q=" method="get" class="search"> //ko
+  <input type="search" name="q" id="search-input" class="form-control" placeholder="nesez search" autofocus="" autocomplete="off">
+</form>
